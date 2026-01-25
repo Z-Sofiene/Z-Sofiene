@@ -163,7 +163,6 @@ Most of my work lives in **private repositories**, powering real platforms under
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Z-Sofiene&theme=cobalt" width="61.5%" alt="Profile Details" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Sofiene&layout=compact&theme=cobalt" width="32%" alt="Top Languages" />
 </div>
 
 ---
@@ -242,16 +241,6 @@ A scalable cloud-native application using **Angular, Spring Boot, Spring MVC, Do
       <td>🔧 Active Development</td>
     </tr>
     <tr>
-      <td>Followers</td>
-      <td><strong>50+</strong></td>
-      <td>📱 Increasing</td>
-    </tr>
-    <tr>
-      <td>Stars Received</td>
-      <td><strong>200+</strong></td>
-      <td>⭐ Popular</td>
-    </tr>
-    <tr>
       <td>Code Contributions</td>
       <td><strong>10,000+</strong></td>
       <td>💻 Prolific</td>
@@ -262,12 +251,6 @@ A scalable cloud-native application using **Angular, Spring Boot, Spring MVC, Do
       <td>🌐 Diverse</td>
     </tr>
   </table>
-</div>
-
-### 🎯 Development Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Z-Sofiene&theme=github_light" alt="WakaTime Stats" />
 </div>
 
 ### 🔥 Contribution Heatmap
